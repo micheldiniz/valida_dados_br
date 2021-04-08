@@ -1,11 +1,11 @@
 # Projeto validação e formatação
 
-##Objetivos
+## Objetivos
 Validar CPF, CNPJ e CEP, além de busca de endereço em api
 Formatar datas no padrão nacional
 validar de números de telefone com expressões regulares 
 
-##Resumo
+## Resumo
 Aprenda a validar documentos utilizando Python 3
 Aprenda a criar máscaras utilizando fatiamento de strings
 Aprenda a criar máscaras utilizando expressões regulares
